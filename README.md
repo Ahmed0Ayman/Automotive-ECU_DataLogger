@@ -1,0 +1,5 @@
+# Automotive-ECU_DataLogger
+
+Hi today I’m trying to build an important ECU in the vehicle this is called Data logger ECU this ECU used to collect the  events on the CAN bus these data is very help full for maintenance  and by parsing these  data we can detect the specific error so here you can imagine   that  we have 2 ECUs one send message to set the speed of the continuous servo motor and the second ECU receive this message and set the speed and direction here as far as we know that  CAN bus is broadcast message bus protocol  and Message based bus so using one ECU and mask filter we can receive any message that we interested in so after the Data Logger ECU receive message it store it in file in Sd card in readable format you can see something like this in agency the technical engineer connect tool into OBD socket and then can read all these information from the Data Logger ECU  
+I hope you get mu point for this project , thank you for you time 
+https://www.youtube.com/watch?v=WiylE4mbINk
