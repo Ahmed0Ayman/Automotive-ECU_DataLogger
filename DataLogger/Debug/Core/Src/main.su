@@ -1,0 +1,10 @@
+main.c:115:6:transmit_uart	24	static
+main.c:150:6:FirstInitializationProcess	24	static
+main.c:219:5:main	8	static
+main.c:297:6:SystemClock_Config	88	static
+main.c:338:6:ReadFile_Fun	24	static
+main.c:379:6:ParseCommand_Fun	16	static
+main.c:390:6:StoreMessage_Fun	64	static
+main.c:436:6:HAL_UART_RxCpltCallback	16	static
+main.c:459:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:476:6:Error_Handler	4	static,ignoring_inline_asm
